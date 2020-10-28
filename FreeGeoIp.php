@@ -13,12 +13,12 @@
 		/**
 		* @const string API url
 		*/
-		const API_BASE_URL = 'http://freegeoip.net';
+		const API_BASE_URL = 'https://freegeoip.app';
 		
 		/**
-        * @var string responseFormat
+		* @var string responseFormat
 		* API call request format - csv, xml, json
-        */
+		*/
 		private $responseFormat;
 	
 		
