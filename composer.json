@@ -1,0 +1,7 @@
+{
+    "name": "murrelljenna/FreeGeoIp-PHP-Wrapper",
+    "type": "library",
+    "description": "API wrapper for freegeoip.app",
+    "keywords": ["FreeGeoIP","geolocation","api","wrapper"],
+    "license": "MIT"
+}
